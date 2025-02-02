@@ -1,5 +1,5 @@
 # SherdianCourseApp
-The Sheridan Course App is an intuitive mobile application designed to streamline course management for Sheridan College students and continuing education learners. The app offers features such as easy access to course lists, detailed individual course pages, and an organized assignment tracking system. A key highlight is the integrated group chat feature, allowing students in each course to communicate and collaborate effectively. 
+The Sheridan Course App is an intuitive mobile application designed to streamline course management for Sheridan College students and continuing education learners. The app offers features such as easy access to course lists, detailed individual course pages, and an organized assignment tracking system.
 
 
 # Appliction Versions
