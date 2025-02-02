@@ -26,7 +26,29 @@ https://www.figma.com/design/xOpCopOLTm67cPH36tBTRs/Assigment-2?t=Pq2VSNDhVsz4u5
 
 https://youtu.be/DDSORgh7fYI
 
-# Screen shots
+# Desirable Functionalities
+
+**Integrated Group Chat:**
+- Dedicated group chat for each course to foster collaboration
+- Real-time messaging with the ability to share files and links
+- Threaded discussions to keep conversations organized
+
+**Notifications & Reminders:**
+- Customizable push notifications for upcoming deadlines, announcements, and group chat updates
+- Smart reminders based on assignment deadlines and course activities
+
+**Highly customizable User Dashboard:**
+- Personalized dashboard highlighting key updates, assignments, and recent activities
+- Quick links to frequently accessed courses and features
+
+**Search & Filter Functions:**
+- Global search to quickly find courses, assignments, and messages
+- Filters for sorting assignments by due date, status, or course
+
+**Accessibility Features:**
+- High-contrast mode and adjustable text size for visually impaired users (Dark mode / black on white)
+- 
+# Screen Shots 
 
 **Navigation**
 ![Navigation](https://github.com/user-attachments/assets/075b8ca1-e163-46eb-8f60-2a6e4e3c4ec5)
