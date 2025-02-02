@@ -47,7 +47,7 @@ https://youtu.be/DDSORgh7fYI
 
 **Accessibility Features:**
 - High-contrast mode and adjustable text size for visually impaired users (Dark mode / black on white)
-- 
+  
 # Screen Shots 
 
 **Navigation**
