@@ -55,6 +55,8 @@ https://youtu.be/DDSORgh7fYI
 
 **Navigation**
 ![Navigation](https://github.com/user-attachments/assets/075b8ca1-e163-46eb-8f60-2a6e4e3c4ec5)
+**Updated Navigation**
+<img width="1067" alt="Screenshot 2025-02-24 at 11 53 25 AM" src="https://github.com/user-attachments/assets/6ccebd69-ab98-4aae-b6f9-8fed3faf943f" />
 ![settings](https://github.com/user-attachments/assets/95d80052-8fdb-42dd-9d0d-d790fdbcc4a7)
 ![HomeScreen](https://github.com/user-attachments/assets/e921650f-57b9-463c-b203-edee5569894e)
 ![CourseDetialView](https://github.com/user-attachments/assets/250af45c-b774-4e9d-9692-22de52af96be)
