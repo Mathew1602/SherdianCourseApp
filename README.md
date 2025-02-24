@@ -61,7 +61,7 @@ https://youtu.be/DDSORgh7fYI
 ![MessageListView](https://github.com/user-attachments/assets/c3181101-ec27-48b2-92b5-b3df19dea6e8)
 ![messageView](https://github.com/user-attachments/assets/7c7e533c-c80e-4e15-b043-5a96dc54caa5)
 ![AssigmentsView](https://github.com/user-attachments/assets/2fe855c8-dba6-4b18-ba02-fc8b0adffec4)
-![Detialed Assignmets View <img width="327" alt="Screenshot 2025-02-24 at 11 50 10 AM" src="https://github.com/user-attachments/assets/c2e35702-78a1-44b5-a2f4-1bc5ae5dfe2f" /> ]
+![Assigment Detial View](https://github.com/user-attachments/assets/12adbfa1-0ee8-4464-b068-7517a599dec3)
 ![Submission View](https://github.com/user-attachments/assets/b6d23def-e174-4118-9ae8-1946e96a12fc)
 
 
